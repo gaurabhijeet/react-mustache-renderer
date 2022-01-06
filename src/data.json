@@ -1,0 +1,64 @@
+{
+    "Internal": {
+        "id": "id",
+        "url": "url",
+        "fullUrl": "fullUrl",
+        "domain": "domain",
+        "StoreID": "StoreID",
+        "DirectoryID": "DirectoryID",
+        "DirectoryName": "DirectoryName",
+        "isPrimaryLocation": "isPrimaryLocation",
+        "ProfessionalId": "ProfessionalId",
+        "ProfessionalExternalId": "ProfessionalExternalId",
+        "LocationType": "LocationType",
+        "isLocationType": {
+            "Physician": "yes"
+        }
+    },
+    "OrganicInformation": {},
+    "BreadCrumbs": [
+        {
+            "Name": "RegalMedicalGroup",
+            "Type": "Brand",
+            "Url": ""
+        },
+        {
+            "Name": "CA",
+            "Type": "State",
+            "Url": ""
+        },
+        {
+            "Name": "Rialto",
+            "Type": "City",
+            "Url": ""
+        }
+    ],
+    "BusinessCard": {
+        "ProfileURL": "{{ProfileURL}}",
+        "BusinessName": "{{BusinessName}}",
+        "FirstName": "{{FirstName}}",
+        "LastName": "{{LastName}}",
+        "Suffix": "{{Suffix}}",
+        "Gender": "{{Gender}}",
+        "OutsideWebPage": "{{OutsideWebPage}}",
+        "Languages": []
+    },
+    "SocialIcons": {},
+    "AddressAndGeo": {},
+    "Reviews": {},
+    "AdditionalDetails": {},
+    "BusinessDescription": {
+        "BusinessDesc": "{{BusinessDesc}}"
+    },
+    "CustomFields": {
+        "type": "IPA South"
+    },
+    "MediaLibrary": {},
+    "HoursOfOperation": {},
+    "Insurances": [],
+    "Specialties": [],
+    "Educations": [],
+    "Healthcare": {},
+    "ServicesByType": {},
+    "ServicesByTypeFull": {}
+}
